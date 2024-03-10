@@ -32,4 +32,4 @@ This project is preety much just a better version of my previous project [Dachsh
 
 Big skeleton art made by [Cheese Guy](https://www.artstation.com/cheeseguy)
 
-Small skeleton art made by [littlebitspace](https://twitter.com/littlebitspace)
+Small skeleton (or the skeleton in the logo) art made by [littlebitspace](https://littlebitspace.com/)
