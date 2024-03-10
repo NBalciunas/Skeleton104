@@ -31,4 +31,5 @@ This project is preety much just a better version of my previous project [Dachsh
 ## Credits
 
 Big skeleton art made by [Cheese Guy](https://www.artstation.com/cheeseguy)
+
 Small skeleton art made by [littlebitspace](https://twitter.com/littlebitspace)
