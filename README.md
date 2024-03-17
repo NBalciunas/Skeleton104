@@ -26,7 +26,7 @@ Next to the Raspberry Pi Pico there are 4 pins for the I2C pins. You can leave t
 
 ## Notes
 
-This project is preety much just a better version of my previous project [Dachshund104](https://github.com/TheMobas0/Dachshund104). I didn't want to build my previous one because the PCB was 4 layers it used Teensy++ 2.0 which is now discontinued making it very expensive. This one is diffrent because it has 2 layers instead of 4 and uses Raspberry Pi Pico instead of Teensy++ 2.0 making it a bit cheaper. Also the LED lightning is now better because of the wounder of NeoPixel LEDs.
+This project is preety much just a better version of my previous project [Dachshund104](https://github.com/TheMobas0/Dachshund104). I didn't want to build my previous one because the PCB was 4 layers and it used Teensy++ 2.0 which is now discontinued making it very expensive. This one is diffrent because it has 2 layers instead of 4 and uses Raspberry Pi Pico instead of Teensy++ 2.0 making it a bit cheaper. Also the LED lightning is now better because of the wounder of NeoPixel LEDs.
 
 ## Credits
 
