@@ -36,4 +36,5 @@ Small skeleton (or the skeleton in the logo) art made by [littlebitspace](https:
 
 ## License
 
-This project is licensed under the MIT License. Copyright © 2025 Nojus Balčiūnas
+This project is licensed under the MIT License.
+Copyright © 2025 Nojus Balčiūnas
