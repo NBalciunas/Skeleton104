@@ -33,3 +33,7 @@ This project is preety much just a better version of my previous project [Dachsh
 Big skeleton art made by [Cheese Guy](https://www.artstation.com/cheeseguy)
 
 Small skeleton (or the skeleton in the logo) art made by [littlebitspace](https://littlebitspace.com/)
+
+## License
+
+This project is licensed under the MIT License. Copyright © 2025 Nojus Balčiūnas
