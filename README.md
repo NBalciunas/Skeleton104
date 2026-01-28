@@ -1,6 +1,6 @@
 # Skeleton104
 
-![skeleton](https://github.com/TheMobas0/Skeleton104/assets/87865572/c14ad731-3ad7-4eef-8705-aa65f87f029a)
+![skeleton](docs/preview-1.png)
 
 ## Features:
 - Powered by Raspberry Pi Pico
@@ -12,21 +12,23 @@
 - 2 layer PCB
 - I2C pinout for optional expansion
 
-## NeoPixel LEDs
-
-Each switch has a NeoPixel LED under it and each LED can be controlled independantly from one another. All of those LEDs are optional and you can use your keyboard without them.
-
-## I2C
-
-Next to the Raspberry Pi Pico there are 4 pins for the I2C pins. You can leave them be or connect something (small LCD screen or a rotary encoder) to add extra features to your keyboard.
-
-## Pictures
-
-*placeholder*
+## Repository Contents
+- `kicad/` - KiCad schematic and PCB design files. **(currently not present)**
+- `gerber/` - Gerber files ready for PCB fabrication.
+- `case/` - 3D files for the top (plate) and bottom (case) pieces, provided in STL and SLDPRT formats.
 
 ## Notes
 
-This project is preety much just a better version of my previous project [Dachshund104](https://github.com/TheMobas0/Dachshund104). I didn't want to build my previous one because the PCB was 4 layers and it used Teensy++ 2.0 which is now discontinued making it very expensive. This one is diffrent because it has 2 layers instead of 4 and uses Raspberry Pi Pico instead of Teensy++ 2.0 making it a bit cheaper. Also the LED lightning is now better because of the wounder of NeoPixel LEDs.
+This project is still a work in progress. The provided files are functional but not final, and a V2 is currently in development.
+
+## Pictures
+
+*will appear ~~soon~~ sometime...*
+
+## Future Plans
+- Add split top and bottom 3D files so they fit standard size 3D printers.
+- Add KiCad files.
+- Remake the PCB.
 
 ## Credits
 
